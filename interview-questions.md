@@ -47,8 +47,10 @@ RVM is a command-line tool which allows you to easily install, manage, and work 
 
 ## Looking Ahead: Terms for Next Week
 
-1. Ruby blocks:
+1. Ruby blocks: A Ruby block is an anonymous function that is passed to a method to determine the outcome.
 
-2. RSpec:
+2. RSpec: RSpec (Ruby specification) is a domaine specific language used for testing the behavior of objects in the Ruby programming language. Developers can use RSpec to create specifications or specs that describe the desired output.
 
 3. Test-driven development:
+Test driven development and behavior driven development are very similar. The difference is the scope of focus. In test driven development, the goal is checking the input and output of the code. In behavior driven development, the tests assure the code will behave for the user as expected.
+

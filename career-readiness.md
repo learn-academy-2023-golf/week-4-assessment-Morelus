@@ -14,7 +14,7 @@ List your chosen tech stack here: html/css.
 
 ### LinkedIn
 
-Your LinkedIn url:
+Your LinkedIn url: www.linkedin.com/in/morelus
 
 Check the boxes below to certify that you have completed the following items on LinkedIn:
 
